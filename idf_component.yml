@@ -1,0 +1,15 @@
+dependencies:
+  idf: '>=5.0'
+  hamas888/chronolog: ^1.0.0
+description: 'Cross-platform OLED display library for embedded systems. Works on ESP-IDF,
+  STM32 HAL, Arduino, Nordic.'
+issues: https://github.com/Hamas888/HMS_OLED/issues
+license: MIT
+maintainers:
+- Hamas Saeed <hamasaeed888@gmail.com>
+repository: https://github.com/Hamas888/HMS_OLED.git
+tags:
+- embedded
+
+url: https://github.com/Hamas888/HMS_OLED
+version: 1.0.0
